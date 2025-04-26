@@ -1,0 +1,20 @@
+# 忽略 Jupyter 笔记本
+*.ipynb
+
+# 忽略压缩文件
+*.bz2
+
+# 忽略数据文件
+*.csv
+
+# 忽略临时/备份文件
+*.log
+*.tmp
+*.bak
+.DS_Store
+
+# 忽略Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

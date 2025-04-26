@@ -1,0 +1,8 @@
+pandas
+opencc-python-reimplemented
+mwparserfromhell
+tqdm
+requests
+bs4
+keras
+tensorflow
