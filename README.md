@@ -40,6 +40,7 @@ wiki_cleaner/
 ├── README.md
 ├── requirements.txt
 └── main.py                       # 主程序，整合调用以上模块
+```
 
 ## 遇到的问题
 
